@@ -115,3 +115,4 @@
         PlaceShipsRandom(FieldEnemy);
     }
 }
+
